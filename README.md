@@ -27,8 +27,3 @@ A feature-rich Discord bot built using the `discord.py` library, designed to pro
    cd discord-bot
 
 
-### Notes
-
-- Make sure to replace `yourusername` in the Git clone URL with your actual GitHub username.
-- You can add more sections such as "License" or "Acknowledgments" as necessary. 
-- Customize any part of this template to better fit your project details or personal style!
